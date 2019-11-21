@@ -1,0 +1,38 @@
+body{
+	background-color: #009688;
+
+}
+
+
+h1{
+	background-color: #FFEB3B;
+	color:#009688;
+}
+
+h2{
+	background-color: #FFEB3B;
+	color:#009688;
+	font-size: 10px;
+
+}
+
+
+
+footer{
+	background-color: #BDBDBD;
+	margin-bottom: 0px;
+}
+
+
+.bob{
+	width: 500px;
+	/*border-radius: 95%;*/
+
+}
+
+
+#bob{
+	width: 500px;
+	/*border-radius: 95%;*/
+
+}

@@ -1,0 +1,11 @@
+Las etiquetas tienen atributos, los valores van entre comillas
+la etiqueta es A de ancla (hiperviculo)
+
+Las h1-6
+Div=contenedor
+p=parrafo
+img  imagen = src es el atributo y de donde no tiene fin
+span  
+button  src es el atributo
+UL LISTA DESORDENADA
+LI LIST ITEM
